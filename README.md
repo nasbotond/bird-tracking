@@ -9,4 +9,7 @@ The following repository contains codes written for dataset conversion and for e
 [GitHub Repository containing public code](https://github.com/szazo/bird-tracking-bytetrack)
 
 Her some achived results  
-[birds_video3_YOLOX.webm](https://user-images.githubusercontent.com/59222637/176439556-6c518777-b41b-43f5-9884-8a0de2d003ab.webm)
+
+
+https://user-images.githubusercontent.com/59222637/176440236-a3b66a2e-4658-4d51-ae3c-f00990babc89.mp4
+
