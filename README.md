@@ -10,12 +10,8 @@ The following repository contains codes written for dataset conversion and for e
 
 Here some achieved results:
 
-* [birds_video_3_ByteTrack.webm](https://user-images.githubusercontent.com/59222637/176438174-8f243fde-8457-4772-8eb3-4fd372a588cc.webm)
-
-https://user-images.githubusercontent.com/59222637/176438174-8f243fde-8457-4772-8eb3-4fd372a588cc.webm
-
-
 https://user-images.githubusercontent.com/59222637/176440236-a3b66a2e-4658-4d51-ae3c-f00990babc89.mp4
 
-
 https://user-images.githubusercontent.com/59222637/176441766-a82acdf0-7651-47db-895c-2dc546171f0e.mp4
+
+https://user-images.githubusercontent.com/59222637/176438174-8f243fde-8457-4772-8eb3-4fd372a588cc.webm
